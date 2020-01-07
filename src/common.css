@@ -1,0 +1,9 @@
+html {
+  font: normal 14px '微软雅黑,Microsoft YaHei';
+}
+.text-right {
+  text-align: right
+}
+.text-center {
+  text-align: center;
+}
